@@ -1,3 +1,6 @@
+// Made by: robert grijalva
+// i wrote notes on the code to help me with pseudocode / i hope it helps you too
+
 // References to inputs and buttons
 let boxNumber = document.getElementById('user-input-box-number');
 let boxColor = document.getElementById('user-input-color');
