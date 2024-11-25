@@ -29,9 +29,9 @@
 #### Revision History  
 -[11/25/24]
 
-# Review by:
+# Review by: Aaron Robinson
 
-### Overall Feedback:
+### Overall Feedback: The code looks oragnized and streamlined well, I was unfamiliar with the querySelectorAll I'll be sure to use that in the future. I also like the idea of displaying alerts when inputs are invalid that is a nice touch. After adding your name to the document somehow, I have no complaints, great job 
 
 
 ### Suggestions:
