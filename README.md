@@ -17,8 +17,7 @@
 
 ### Documentation  
 
-###  Team Name:  ronald raygun
-#### Your Names:  Robert G., Anthony D., and 
+#### Your Names:  Robert G.
 
 #### Date Revised  
 - [11/25/24]  
